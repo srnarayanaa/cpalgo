@@ -2,6 +2,7 @@
 <summary>Longest Common Subsequence</summary>
 <br>
 ```
+```
 python
 import cpalgo
 
