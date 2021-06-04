@@ -12,13 +12,16 @@ pip install cpalgo
 ## Usage
 
 ```python
-from cpalgo import lcs
+import cpalgo
 
 string1 = 'algorithms'
 string2 = 'rhythms'
 
-lcs.lcs(string1, string2)    #Longest Common Subsequence
-lcs.lps(string1, string2)    #Longest Palindromic Subsequence
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
 
 ```
 
