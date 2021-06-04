@@ -300,7 +300,7 @@
     
         import cpalgo
     
-    	string = "ANSIUISNA"
+		string = "ANSIUISNA"
         cpalgo.is_palindrom(string)
     
   
@@ -316,6 +316,5 @@
     	arr = [6, 3, -1, -9, 1]
 
         cpalgo.first_missing_positive(arr)
-    
   
 </details>
