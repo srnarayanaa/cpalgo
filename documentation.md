@@ -1,21 +1,10 @@
 <details>
-    <h1 style="display:inline-block"><summary>Advanced Topics</summary></h1>
+    <h3 style="display:inline-block"><summary>Longest Common Subsequence</summary></h3>
     
-    ```javascript
-       import { Component } from '@angular/core';
+    ```python
+        import cpalgo
     
-        @Component({
-          selector: 'app-root',
-          template: `<nav>
-                      <a routerLink="/signin" routerLinkActive="active">SignIn</a>
-                      <a routerLink="/signup" routerLinkActive="active">SignUp</a>
-                    </nav>  
-                    <router-outlet></router-outlet>`,
-          styleUrls: ['./app.component.css']
-        })
-        export class AppComponent {
-          
-        }
+        cpalgo.longest_common_subsequence(s1,s2)
     
     ```
 </details>
