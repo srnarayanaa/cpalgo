@@ -311,10 +311,10 @@
 <details>
     <summary>Smallest Missing Positive</summary>
     
-        import cpalgo
+		import cpalgo
     
     	arr = [6, 3, -1, -9, 1]
 
-        cpalgo.first_missing_positive(arr)
+		cpalgo.first_missing_positive(arr)
   
 </details>
