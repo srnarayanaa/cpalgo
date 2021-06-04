@@ -1,40 +1,108 @@
 <details>
 <summary>Longest Common Subsequence</summary>
 <br>
-This is for Longest Common Subsequence
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```
 </details>
 
 
 <details>
 <summary>Longest Common Substring</summary>
 <br>
-This is for Longest Common Substring
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```
 </details>
 
 
 <details>
 <summary>Longest Increasing Subsequence</summary>
 <br>
-This is for Longest Increasing Subsequence
-</details>
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```</details>
 
 
 <details>
 <summary>Maximum Subarray</summary>
 <br>
-This is for Maximum Subarray
-</details>
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```</details>
 
 
 <details>
 <summary>Count Primes</summary>
 <br>
-This counts prime
-</details>
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```</details>
 
 
 <details>
 <summary>Is Prime</summary>
 <br>
-This talks about Is Prime
-</details>
+```python
+import cpalgo
+
+string1 = 'algorithms'
+string2 = 'rhythms'
+
+#To find the longest common subsequence between two strings
+cpalgo.longest_common_subsequence(string1, string2) 
+
+#To count the number of prime numbers in [1,N]
+cpalgo.count_primes(234)
+
+```</details>
