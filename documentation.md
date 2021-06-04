@@ -1,5 +1,5 @@
 <details>
-    <h3 style="display:inline-block"><summary>Longest Common Subsequence</summary></h3>
+    <summary>Longest Common Subsequence</summary>
     
         import cpalgo
     
