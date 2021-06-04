@@ -1,3 +1,5 @@
+
+
 <details>
     <summary>Convex Hull</summary>
  
@@ -8,6 +10,8 @@
 		cpalgo.convex_hull(points)
   
 </details>
+
+___
 
 
 <details>
@@ -21,6 +25,8 @@
     
   
 </details>
+
+___
 
 
 <details>
