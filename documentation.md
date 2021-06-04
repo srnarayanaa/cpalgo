@@ -1,7 +1,4 @@
-<details>
-<summary>Longest Common Subsequence</summary>
-<br>
-```python
-s = "Python syntax highlighting"
-print s
-```
+<details open>
+  <summary>How to start with open dropdown?</summary>
+    [ERROR] Self-reference
+  </details>
