@@ -1,4 +1,6 @@
 <details open>
   <summary>How to start with open dropdown?</summary>
-    [ERROR] Self-reference
+    ```python
+  print('Hello')
+  ```
   </details>
