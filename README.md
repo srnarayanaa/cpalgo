@@ -1,4 +1,5 @@
 # cpalgo
+The library documentation will be made public by June 15, 2021.
 
 cpalgo is a Python Library that contains over 100 standard competitive programming algorithms for faster access.
 ## Installation
