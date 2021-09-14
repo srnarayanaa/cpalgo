@@ -29,8 +29,6 @@ cpalgo.count_primes(234)
 ## Developers
 [Narayanaa S R](https://srnarayanaa.me)
 
-[Badrinath V](https://www.linkedin.com/in/badrivenkat/)
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
