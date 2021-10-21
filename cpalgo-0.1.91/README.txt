@@ -1,0 +1,1 @@
+cpalgo is a Python Library that contains over 100 standard competitive programming algorithms [Computational Geometry / Graph Optimization] for narrowing down approaches for long contests.

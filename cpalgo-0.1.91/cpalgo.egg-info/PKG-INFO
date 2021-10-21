@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: cpalgo
+Version: 0.1.91
+Summary: A python library that contains standard competitive programming algorithms for faster access
+Home-page: https://github.com/srnarayanaa/cpalgo/blob/main/README.md
+Author: Narayanaa S R
+Author-email: srnarayanaa@gmail.com
+License: BSD
+Description: # cpalgo
+        The library is active since June 15, 2021.
+        
+        ## Installation
+        
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+        
+        ```bash
+        pip install cpalgo
+        ```
+        
+        ## Developers
+        [Narayanaa S R](https://srnarayanaa.me)
+        
+        ## Contributing
+        Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+        
+        Please make sure to update tests as appropriate.
+        
+        ## License
+        [BSD](https://opensource.org/licenses/BSD-3-Clause)
+        
+        ## Project Status
+        This project is expected to be completed by November 2021.
+        
+        ## Templates to be covered in cpalgo
+        
+        <details>
+            <summary>Algebra</summary>
+        		Binary Exponentitation<br/>
+        		EGCD<br/>
+        		Linear Diophantine Equations<br/>
+        		Linear Sieves
+        </details>
+        
+        ___
+        
+        <details>
+            <summary>Query based Optimisation</summary>
+        		Sparse Table<br/>
+        		RMQ<br/>
+        		Square Root Decomposition<br/>
+        		Heavy Light Decomposition<br/>
+        		RMQ - Euler Tour
+        </details>
+        
+        ___
+        
+        <details>
+            <summary>Graph Optimisation</summary>
+        		Articulation<br/>
+        		DSU - Kruskal<br/>
+        		Tarjan off-line<br/>
+        		Fold Fulkerson - Max Flow<br/>
+        		Dinic - Max Flow<br/>
+        		Condensation Graph<br/>
+        		Fenwick Tree<br/>
+        		Segment Tree
+        </details>
+        
+        ___
+        
+        <details>
+            <summary>Computational Geometry</summary>
+        		Convex Hull - Graham's scan<br/>
+        		Convex Hull - Andrew Monotone<br/>
+        		S&I NlogN<br/>
+        		Lattice Points - Pick's algorithm
+        </details>
+        
+        ___
+Keywords: competitive programming algorithms
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Description-Content-Type: text/markdown
